@@ -1,7 +1,5 @@
 ### Hi there, I'm Snehasish Dhar[Snehasish][website] 👋
 
-[![Website](https://img.shields.io/website?label=Snehasish Dhar.com&style=for-the-badge&url=https%3A%2F%2Fdsnehasish74.com)](https://dsnehasish74.github.io/portfolio/)
-
 ## I'm a Computer Science Student, Competitive Coder, Developer, and AI-ML Enthusiast !!
 
 ### Connect with me:
@@ -38,7 +36,7 @@
 ---
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Snehasish Dhar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dsnehasish74&show_icons=true&hide_border=true" />
 
 
 [website]: dsnehasish74.github.io/portfolio/
