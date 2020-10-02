@@ -21,7 +21,7 @@
   <img align="left" alt="Snehasish Dhar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dsnehasish74&show_icons=true&hide_border=true" />
 
 
-[website]: https://www.dsnehasish74.github.io/portfolio/
+[website]: https://dsnehasish74.github.io/portfolio/
 [instagram]: https://www.instagram.com/snehasish_dhar/?hl=en
 [linkedin]: https://www.linkedin.com/in/snehasish-dhar-b657721a0/
 [facebook]: https://www.facebook.com/snehasish.dhar.129/
