@@ -1,6 +1,6 @@
 ### Hi there, I'm Snehasish Dhar[Snehasish][website] 👋
 
-## I'm a Computer Science Student, Competitive Coder, Developer, and AI-ML Enthusiast !!
+### I'm a Computer Science Student, Competitive Coder, Developer, and AI-ML Enthusiast 🤓🤓🤫!!🏝
 
 ## Connect with me:
 
