@@ -9,10 +9,9 @@
 [<img align="left" alt="snehasish Dhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="snehasish Dhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsnehasish74" alt="arnabsen1729" /> </p>
-<p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/dsnehasish74?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/dsnehasish74?style=for-the-badge">
-</p>
+
 
 <br />
 
