@@ -5,7 +5,7 @@
 <p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/dsnehasish74?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/dsnehasish74?style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=dsnehasish74" alt="dsnehasish74" />
+<img src="https://komarev.com/ghpvc/?username=dsnehasish74?style=for-the-badge" alt="dsnehasish74" />
 </p>
 
 ## Connect with me:
