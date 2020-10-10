@@ -1,6 +1,6 @@
 ### Hi there, I'm Snehasish Dhar[Snehasish][website] 👋
 
-### I'm a Computer Science undergrad, Competitive Coder, Developer, and AI-ML Enthusiast 🤓🤓🤫!!🏝
+#### I'm a Computer Science undergrad, Competitive Coder, Developer, and AI-ML Enthusiast 🤓🤓🤫!!🏝
 
 <p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/dsnehasish74?style=for-the-badge">
