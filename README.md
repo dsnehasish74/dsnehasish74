@@ -5,7 +5,6 @@
 <p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/dsnehasish74?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/dsnehasish74?style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=dsnehasish74?style=for-the-badge" alt="dsnehasish74" />
 </p>
 
 ## Connect with me:
@@ -14,6 +13,7 @@
 [<img align="left" alt="snehasish Dhar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="snehasish Dhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="snehasish Dhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<img src="https://komarev.com/ghpvc/?username=dsnehasish74" alt="dsnehasish74" />
 
 
 <br />
