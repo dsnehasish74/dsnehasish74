@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Snehasish Dhar!</h1>
 <h3 align="center">A Computer Science Undergrad,passionate full stack developer ,problem solver and AI-ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dsnehasish74&label=Profile%20views&color=0e75b6&style=flat" alt="dsnehasish74" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dsnehasish74&label=Profile%20views&color=0e75b6&style=flat" alt="dsnehasish74" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsnehasish74" alt="dsnehasish74" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsnehasish74" alt="dsnehasish74" /></a> </p>
 
 - 👯 Love to collaborate on **various open source project**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/snehasish dhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="snehasish dhar" height="30" width="40" /></a>
-<a href="https://fb.com/snehasish dhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="snehasish dhar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/snehasishdhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snehasishdhar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sdhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sdhar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/snehasish-dhar-b657721a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="snehasish dhar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/snehasish.dhar.129/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="snehasish dhar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
