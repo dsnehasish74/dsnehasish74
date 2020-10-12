@@ -1,34 +1,22 @@
-### Hi there, I'm Snehasish Dhar[Snehasish][website] 👋
+<h1 align="center">Hi 👋, I'm Snehasish Dhar!</h1>
+<h3 align="center">A Computer Science Undergrad,passionate full stack developer ,problem solver and AI-ML Enthusiast</h3>
 
-#### I'm a Computer Science undergrad, Competitive Coder, Developer, and AI-ML Enthusiast 🤓🤓🤫!!🏝
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dsnehasish74&label=Profile%20views&color=0e75b6&style=flat" alt="dsnehasish74" /> </p>
 
-<p align="center" style="display: inline">
-<img src="https://img.shields.io/github/followers/dsnehasish74?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/dsnehasish74?style=for-the-badge">
+- 👯 Love to collaborate on **various open source project**
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/snehasish dhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="snehasish dhar" height="30" width="40" /></a>
+<a href="https://fb.com/snehasish dhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="snehasish dhar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/snehasishdhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snehasishdhar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sdhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sdhar" height="30" width="40" /></a>
 </p>
 
-## Connect with me:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[<img align="left" alt="dsnehasish74.github.io/portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="snehasish Dhar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="snehasish Dhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="snehasish Dhar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<img src="https://komarev.com/ghpvc/?username=dsnehasish74" alt="dsnehasish74" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnehasish74&layout=compact" alt="dsnehasish74" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsnehasish74&show_icons=true" alt="dsnehasish74" /></p>
 
-<br />
-
-
-<br />
-<br />
-
----
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Snehasish Dhar's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dsnehasish74&show_icons=true&hide_border=true" />
-
-
-[website]: https://dsnehasish74.github.io/portfolio/
-[instagram]: https://www.instagram.com/snehasish_dhar/?hl=en
-[linkedin]: https://www.linkedin.com/in/snehasish-dhar-b657721a0/
-[facebook]: https://www.facebook.com/snehasish.dhar.129/
