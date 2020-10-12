@@ -11,6 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/snehasish-dhar-b657721a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="snehasish dhar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/snehasish.dhar.129/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="snehasish dhar" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/snehasishdhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="snehasish dhar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
