@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsnehasish74&label=Profile%20views&color=0e75b6&style=flat" alt="dsnehasish74" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsnehasish74" alt="dsnehasish74" /></a> </p>
+
 - 👯 Love to collaborate on **various open source project**
 
 <p align="left">
@@ -19,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnehasish74&layout=compact" alt="dsnehasish74" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsnehasish74&show_icons=true" alt="dsnehasish74" /></p>
-
