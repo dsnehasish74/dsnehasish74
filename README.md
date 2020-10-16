@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsnehasish74" alt="dsnehasish74" /></a> </p>
 
 
-- 👯 Love to collaborate on **various open source project**
+- 👯 Love to contribute on **various open source project**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
