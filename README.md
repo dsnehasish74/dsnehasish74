@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Snehasish Dhar!
-<a href='https://www.linkedin.com/in/snehasish-dhar-b657721a0/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/snehasish-dhar-b657721a0/'><img align='left' alt="linkedin" src="https://github.com/dsnehasish74/dsnehasish74/blob/main/assets/linkedin.svg" height='18px'/></a>
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Beginner level Blockchain Developer and ML Engineer ) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
