@@ -19,13 +19,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br>
 <br>
-<h2 align="center">🐦 Github Statistics </h2>
+<h2 align="center">:zap: Languages Used </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dsnehasish74&show_icons=true&theme=radical&line_height=27">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnehasish74&hide=css,java,html&theme=radical">
 </p>
  
  
-<h2 align="center">:zap: Languages Used </h2>
+<h2 align="center">🐦 Github Statistics </h2>
 <hr>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=dsnehasish74&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dsnehasish74&theme=radical"/>|
