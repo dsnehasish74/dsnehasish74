@@ -28,7 +28,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <h2 align="center">:zap: Languages Used </h2>
 <hr>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabsen1729"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=dsnehasish74&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dsnehasish74"/>|
 |---|---|
 <p align = "center">
 <img src="https://activity-graph.herokuapp.com/graph?username=dsnehasish74&theme=redical">
