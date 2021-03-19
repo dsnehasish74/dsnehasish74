@@ -10,17 +10,30 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
-- 🌱 &nbsp; I’m currently learning Typescript; 
+- 🌱 &nbsp; I’m currently learning Blockchain; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dsnehasish74?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/snehasish-dhar-b657721a0/)
 - 📝 &nbsp; Checkout my [resume]()
 - 📚 &nbsp; When I am free, I love to play chess.  
 <br>
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsnehasish74&show_icons=true" alt="dsnehasish74" /></p>
- </a>
+<br>
+<br>
+<br>
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dsnehasish74&show_icons=true&theme=radical&line_height=27">
+</p>
  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dsnehasish74&theme=onedark" alt="dsnehasish" />
+ 
+<h2 align="center">:zap: Languages Used </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnehasish74&hide=css,java,html&theme=radical">
+</p>
+<br/>
+<p align = "center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dsnehasish74&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0">
+</p>
+<p align = "center">
+<img src="https://activity-graph.herokuapp.com/graph?username=dsnehasish74&theme=redical">
+</p>
