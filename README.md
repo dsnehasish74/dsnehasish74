@@ -26,7 +26,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
  
  
 <h2 align="center">:zap: Languages Used </h2>
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnehasish74&hide=css,java,html&theme=radical">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dsnehasish74&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0">|
+|<img src="https://github-readme-stats.vercel.app/api?username=dsnehasish74&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=dsnehasish74&theme=radical&show_icons=true"/>|
 |---|---|
 <p align = "center">
 <img src="https://activity-graph.herokuapp.com/graph?username=dsnehasish74&theme=redical">
