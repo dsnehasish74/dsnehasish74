@@ -19,6 +19,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br>
 <br>
+<hr>
 <h2 align="center">:zap: Languages Used </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnehasish74&hide=css,java,html&theme=radical">
