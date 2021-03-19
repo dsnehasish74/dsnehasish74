@@ -6,7 +6,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" width="260px"/>
   
 ### 🧐 More About Me:
 - 🌱 &nbsp; I’m currently learning Blockchain; 
