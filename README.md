@@ -24,9 +24,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnehasish74&hide=css,java,html&theme=radical">
 </p>
- 
+ <p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=dsnehasish74&theme=radical" alt="Snehasish Dhar" />
- 
+ </p>
 <h2 align="center">🐦 Github Statistics </h2>
 <hr>
 
