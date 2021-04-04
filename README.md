@@ -21,10 +21,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <hr>
 <h2 align="center">:zap: Languages Used </h2>
+|<img src="https://github-readme-stats.vercel.app/api?username=dsnehasish74&&show_icons=true&count_private=true&theme=radical"/>|<img src="https://activity-graph.herokuapp.com/graph?username=dsnehasish74&theme=redical">|
+|---|---|
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnehasish74&hide=css,java,html&theme=radical">
 </p>
  
+ <img src="https://github-profile-trophy.vercel.app/?username=jyoti-anjaly" alt="jyoti-anjaly" />
  
 <h2 align="center">🐦 Github Statistics </h2>
 <hr>
