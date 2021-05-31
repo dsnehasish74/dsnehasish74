@@ -22,7 +22,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <hr>
 <h2 align="center">:zap: Languages Used </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnehasish74&hide=css,java,html&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnehasish74&theme=radical">
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
