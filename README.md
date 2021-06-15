@@ -1,4 +1,4 @@
-## Hey 👋, I'm Snehasish Dhar!! [visit My blog](https://sdcodr.blogspot.com/)
+## Hey 👋, I'm Snehasish Dhar!!
 <a href='https://www.linkedin.com/in/snehasish-dhar-b657721a0/'><img align='left' alt="linkedin" src="https://github.com/dsnehasish74/dsnehasish74/blob/main/assets/linkedin.svg" height='18px'/></a>
 
 
@@ -13,6 +13,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dsnehasish74?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/snehasish-dhar-b657721a0/)
+- 📝 &nbsp; Checkout my [blog](https://sdcodr.blogspot.com/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1KpnGiHzXGLyx60-HJtatGP3PwYL5wjaH/view?usp=sharing)
 - 📚 &nbsp; When I am free, I love to play chess.  
 <br>
