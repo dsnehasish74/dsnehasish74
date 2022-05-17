@@ -14,6 +14,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/snehasish-dhar-b657721a0/)
 - 📝 &nbsp; Checkout my [blog](https://solinone.blogspot.com/)
+- 📝 &nbsp; Checkout my [Youtube](https://www.youtube.com/channel/UCG1fJFr8SrDd4lMgUj6i5ew)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1KpnGiHzXGLyx60-HJtatGP3PwYL5wjaH/view?usp=sharing)
 - 📚 &nbsp; When I am free, I love to play chess.  
 <br>
