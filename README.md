@@ -26,7 +26,7 @@
 
 📝 Visit My Blog https://codeanddevelop.hashnode.dev/
 
-👨‍👨‍👧‍👦 Join My Telegram group (1k+ Subscribers) https://t.me/webdevelopmentwithsnehasish𝗛𝗶, 𝗜 𝗮𝗺 Snehasish Dhar👋 👨‍🎓
+👨‍👨‍👧‍👦 Join My Telegram group (1k+ Subscribers) https://t.me/webdevelopmentwithsnehasish
 <br>
 <br>
 <br>
