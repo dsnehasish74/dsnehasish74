@@ -1,10 +1,8 @@
 ## Hey 👋, I'm Snehasish Dhar!!
 
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dsnehasish74/dsnehasish74/main/techstack.gif" width="260px"/>
-  
-### 🧐 More About Me:
-𝗛𝗶, 𝗜 𝗮𝗺 Snehasish Dhar👋
+
+### More About Me 🧐:
 
 👨‍🎓 I am currently in my Final Year pursuing my B.tech degree in Computer Science and Engineering from the Indian Institute of Engineering Science and Technology, Shibpur. 
 
@@ -32,10 +30,6 @@
 <br>
 <br>
 <hr>
-<h2 align="center">:zap: Languages Used </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsnehasish74&theme=radical">
-</p>
 
 <h2 align="center">🐦 Github Statistics </h2>
 <hr>
