@@ -22,7 +22,7 @@
 
 📹 Visit my Youtube Channel where I share my knowledge about Web Development. https://www.youtube.com/c/Codeanddevelop/featured
 
-📝 Visit My Blog https://codeanddevelop.hashnode.dev/
+📝 Visit My Blog [https://www.findlivejobs.in/](https://www.findlivejobs.in/)
 
 👨‍👨‍👧‍👦 Join My Telegram group (1k+ Subscribers) https://t.me/webdevelopmentwithsnehasish
 <br>
